@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-native-components-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
