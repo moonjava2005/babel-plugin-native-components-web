@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-native-components-web",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "description": "Babel plugin for private projects",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-tester": "^8.0.1"
+  },
+  "author": "Khoa Luu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moonjava2005/babel-plugin-native-components-web.git"
+  }
+}
